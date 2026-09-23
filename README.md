@@ -64,7 +64,19 @@ This repository contains my HackerRank solutions and demonstrates my programming
 
 ![HackerRank 3-Star Badge](screenshots/hackerrank-badge.png)
 
-### Accepted Submission
+### Accepted Submissions
 
-![HackerRank Accepted Submission](screenshots/accepted-submission.png)
+#### Diagonal Difference
+![Accepted Submission 1](screenshots/Accepted-1.png)
 
+#### Dynamic Array
+![Accepted Submission 2](screenshots/Accepted-2.png)
+
+#### Time Conversion
+![Accepted Submission 3](screenshots/Accepted-3.png)
+
+#### Compare the Triplets
+![Accepted Submission 4](screenshots/Accepted-4.png)
+
+#### Sparse Arrays
+![Accepted Submission 5](screenshots/Accepted-5.png)
