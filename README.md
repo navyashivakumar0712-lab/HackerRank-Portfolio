@@ -51,7 +51,9 @@ Through these HackerRank problems, I practiced solving programming problems usin
 
 ## HackerRank
 
-HackerRank Profile: Add your HackerRank profile link here.
+
+- Profile: https://www.hackerrank.com/profile/ugcet2502725
+- Problem Solving Badge: ⭐⭐⭐ 3-Star
 
 ## GitHub
 
