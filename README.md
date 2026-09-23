@@ -58,6 +58,7 @@ Through these HackerRank problems, I practiced solving programming problems usin
 ## GitHub
 
 This repository contains my HackerRank solutions and demonstrates my programming practice and problem-solving skills.
+
 ## Evidence
 
 ### HackerRank 3-Star Badge
@@ -67,16 +68,23 @@ This repository contains my HackerRank solutions and demonstrates my programming
 ### Accepted Submissions
 
 #### Diagonal Difference
-![Accepted Submission 1](screenshots/Accepted-1.png)
+![Accepted Submission - Diagonal Difference](screenshots/Accepted-1.png)
 
 #### Dynamic Array
-![Accepted Submission 2](screenshots/Accepted-2.png)
+![Accepted Submission - Dynamic Array](screenshots/Accepted-2.png)
 
 #### Time Conversion
-![Accepted Submission 3](screenshots/Accepted-3.png)
+![Accepted Submission - Time Conversion](screenshots/Accepted-3.png)
 
 #### Compare the Triplets
-![Accepted Submission 4](screenshots/Accepted-4.png)
+![Accepted Submission - Compare the Triplets](screenshots/Accepted-4.png)
 
 #### Sparse Arrays
-![Accepted Submission 5](screenshots/Accepted-5.png)
+![Accepted Submission - Sparse Arrays](screenshots/Accepted-5.png)
+
+
+
+
+
+
+
