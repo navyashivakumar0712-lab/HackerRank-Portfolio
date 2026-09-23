@@ -58,3 +58,13 @@ Through these HackerRank problems, I practiced solving programming problems usin
 ## GitHub
 
 This repository contains my HackerRank solutions and demonstrates my programming practice and problem-solving skills.
+## Evidence
+
+### HackerRank 3-Star Badge
+
+![HackerRank 3-Star Badge](screenshots/hackerrank-badge.png)
+
+### Accepted Submission
+
+![HackerRank Accepted Submission](screenshots/accepted-submission.png)
+
